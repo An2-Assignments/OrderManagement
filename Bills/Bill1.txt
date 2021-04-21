@@ -1,0 +1,4 @@
+The client: Client [idclient=1, name=Name1, address=Address1, email=Email@yahoo.com, age=20]
+The product: Product [idproduct=3, quantity=100, name=Name2, price=90]
+The quantity: 10
+Done.
