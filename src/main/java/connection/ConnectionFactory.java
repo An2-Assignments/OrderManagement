@@ -19,9 +19,9 @@ public class ConnectionFactory {
     //Pentru driver:
     private static final Logger LOGGER = Logger.getLogger(ConnectionFactory.class.getName());
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
-    private static final String DBURL = "jdbc:mysql://localhost:3306/schooldb";
-    private static final String USER = "root";
-    private static final String PASS = "Ciocoflender66";
+    private static final String DBURL = "jdbc:mysql://localhost:3306/db_name";
+    private static final String USER = "user";
+    private static final String PASS = "password";
 
     private static ConnectionFactory singleInstance = new ConnectionFactory();
 
